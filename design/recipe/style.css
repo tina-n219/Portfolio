@@ -1,0 +1,76 @@
+body {
+font-family: 'Cooper Hewitt', san serif;
+}
+
+* {
+margin: 0px;
+padding: 0px;
+color: black;
+}
+
+a {
+font-style: 1.1rem;
+font-weight: normal;
+letter-spacing: 1px;
+text-decoration: none;
+}
+
+a:hover {
+text-decoration-style: dotted;
+}
+
+a:visited {
+color: black;
+}
+
+.name {
+float: left;
+margin-left: 25px;
+width: 80%;
+}
+
+.about {
+	float: right;
+	width: 10%;
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+hr {
+    border: 0;
+    height: 1.5px;
+    width: 15%;
+    background: black;
+    background-image: black;
+
+}
+
+.nav {
+width: 100%;
+margin-top: 33px;
+font-size: 16px
+}
+
+.title h1, .directions h1 {
+margin-left: 50px;
+}
+.time p {
+	margin-left: 50px;
+}
+.ingredients h3, p {
+	margin-left: 50px;
+}
+
+.directions h3 {
+	margin-left: 50px;
+}
+
+.directions {
+	width: 35%;
+}
+
+.image-container {
+	float: right;
+	width: 50%;
+	margin-right: 150px;
+}
