@@ -40,10 +40,6 @@ hr {
 
 }
 
-.easyanim hr {
-	width:28.1%;
-}
-
 .nav {
 width: 100%;
 margin-top: 33px;
@@ -64,40 +60,18 @@ margin-left: 50px;
 	color: white;
 }
 
-.image-container {
-display: flex;
-justify-content: flex-start;
-margin-left: 50px;
 
-}
-.hrbrid .image-container {
-margin-left: 0px;
-}
-
-h1, h3, h4 {
+h2 {
+	margin-left: 50px;
+	margin-top: 40px;
 	font-weight: bold;
 }
 
-h1, h4, .easyanim h3 {
-	margin-left: 50px;
-}
-
-.freecell p {
-width: 37%;
-margin-left: 50px
-	}
-
- .easyanim p {
-width: 37%;
-margin-left: 50px;
-}
-
-ul {
-	list-style-type: circle;
-	margin-left: 70px;
-}
-
-li {
-	width: 35%;
+.videos {
+	padding-top: 70px;
+	display:flex;
+	flex-direction: row;
+	justify-content: space-around;
+	
 }
 
