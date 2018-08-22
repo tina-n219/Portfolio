@@ -28,7 +28,6 @@ width: 80%;
 .about {
 	float: right;
 	width: 10%;
-	display: inline-block;
 	box-sizing: border-box;
 }
 
