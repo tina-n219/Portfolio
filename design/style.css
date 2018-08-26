@@ -67,7 +67,21 @@ margin-left: 50px;
 
 .typography {
 	float: left;
-	margin-left: 50px;
 	margin-top: 60px;
 
+}
+
+.title {
+	font-size: 100px;
+	margin-left: 50px;
+	padding-bottom: 260px;
+}
+#pg1, #pg2, #pg3, #pg4{
+	max-width: 100%;
+	height:auto;
+}
+
+.image-container {
+	margin: 0px;
+	padding: 0px;
 }
